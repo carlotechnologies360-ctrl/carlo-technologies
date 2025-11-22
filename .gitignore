@@ -26,3 +26,4 @@ build/
 *.min.js
 *.min.css
 
+".env" 
